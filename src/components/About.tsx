@@ -79,7 +79,7 @@ const About = () => {
             </div>
             
             <Button size="lg" asChild>
-              <a href="/delorenzo-resume-2025-04-web.pdf" download>
+              <a href="/delorenzo-resume-2025-05-web.pdf" download>
                 Download Resume
               </a>
             </Button>
